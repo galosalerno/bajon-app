@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+.descripcion{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1rem;
+  color:black;
+  margin: 1rem;
+}
+.Navbar{
+  background-color: #ffc145;
+  width: 100%;
+  height: 6rem;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.Navbar > h2,h3{
+  text-align: center;
+  font-size: 1.5rem;
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Navbar > img{
+  width: 30px;
+  height: 30px;
+  margin-left: 45%;
+  margin-top: 0px;
+    
+}
+.Navbar > h3{
+  font-size: 1rem;
+  color: #282c34;
+  margin-bottom: 0px;
+  font-family: sans-serif;
+}
+.inicio{
+  
+  margin-left: 40%;
+  margin-top: 0%;
+}
+.promos{
+  margin-top: 0rem;
+  width: 100%;
+  height: 20rem;
+  margin-bottom: 0%;
+
+}
+.botoncito > button{
+  width: 10px;
+  height: 20px;
+  margin-top: 0%;
+}
